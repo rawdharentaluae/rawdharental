@@ -1015,6 +1015,9 @@ img {
 .btn-equipment {
     padding: 12px 18px;
     font-size: 0.9rem;
+    background: var(--primary-gradient);
+    border: none;
+    color: var(--white);
 }
 
 /* ==========================================
